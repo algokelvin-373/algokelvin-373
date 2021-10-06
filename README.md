@@ -16,3 +16,8 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 - Youtube: [Algo Kelvin](https://www.youtube.com/c/AlgoKelvin373)
 - Facebook: [Algokelvin](https://web.facebook.com/algokelvin)
 - Instagram: [@algokelvin](https://www.instagram.com/algokelvin)
+
+## Constributions Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kelvin373-ht&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
