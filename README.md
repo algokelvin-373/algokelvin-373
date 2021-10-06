@@ -1,9 +1,9 @@
 ## ALGOKELVIN ##
 _AlgoKelvin is an Online Class to enhance the development of "MAKE SOFTWARE" skills._
 _Follow Algokelvin and you will be taught various methods and techniques easy and precise in making software. Here it is also taught to learn team collaboration which is a provision to enter the world of Technology work 😇😇_
+#### _GO INTERNATIONAL_ ####
 
-### _GO INTERNATIONAL_ ###
-
+## My Github Statistic & My Programming Languages
 <p align="left">
 <a href="https://github.com/kelvin373-ht">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kelvin373-ht&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
