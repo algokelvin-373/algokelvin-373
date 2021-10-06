@@ -11,6 +11,7 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kelvin373-ht&layout=compact&langs_count=8&theme=algolia"/>
 </a>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin373-ht&theme=radical&include_all_commits=true&count_private=true"/>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvin373-ht" alt="kelvin373-ht" /></a> </p>
 </p>
 
 ### 💬 My Link Profile
