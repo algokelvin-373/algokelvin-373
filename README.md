@@ -1,4 +1,8 @@
-## ALGOKELVIN
+## ALGOKELVIN ##
+_AlgoKelvin is an Online Class to enhance the development of "MAKE SOFTWARE" skills._
+_Follow Algokelvin and you will be taught various methods and techniques easy and precise in making software. Here it is also taught to learn team collaboration which is a provision to enter the world of Technology work 😇😇_
+
+### _GO INTERNATIONAL_ ###
 
 <p align="left">
 <a href="https://github.com/kelvin373-ht">
@@ -9,3 +13,6 @@
 
 ### 💬 My Link Profile
 - Linkedin: [Kelvin Herwanda Tandrio](https://www.linkedin.com/in/kelvin-herwanda-tandrio-0aa12117b/)
+- Youtube: [Algo Kelvin](https://www.youtube.com/c/AlgoKelvin373)
+- Facebook: [Algokelvin](https://web.facebook.com/algokelvin)
+- Instagram: [@algokelvin](https://www.instagram.com/algokelvin)
