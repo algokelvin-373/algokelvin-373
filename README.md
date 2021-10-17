@@ -21,6 +21,13 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 - Instagram: [@algokelvin](https://www.instagram.com/algokelvin)
 - Stackoverflow: [Kelvin HT](https://stackoverflow.com/users/11773427/kelvin-herwanda-tandrio)
 
+<h1>Youtube</h1>
+<p align="center">
+  <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/views/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
+  <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
+</p>
+
+
 ## Constributions Graph
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=kelvin373-ht&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
