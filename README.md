@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kelvin373-ht.kelvin373-ht) <img src="https://komarev.com/ghpvc/?username=kelvin373-ht&label=Profile%20views&color=0e75b6&style=flat" alt="kelvin373-ht" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=algokelvin-373.algokelvin-373) <img src="https://komarev.com/ghpvc/?username=algokelvin-373&label=Profile%20views&color=0e75b6&style=flat" alt="algokelvin-373" />
 ## ALGOKELVIN ##
 _AlgoKelvin is an Online Class to enhance the development of "MAKE SOFTWARE" skills._
 _Follow Algokelvin and you will be taught various methods and techniques easy and precise in making software. Here it is also taught to learn team collaboration which is a provision to enter the world of Technology work 😇😇_
@@ -6,12 +6,12 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 
 ## My Github Statistic & My Programming Languages
 <p align="center">
-<a href="https://github.com/kelvin373-ht">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kelvin373-ht&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kelvin373-ht&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/algokelvin-373">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=algokelvin-373&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=algokelvin-373&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin373-ht&theme=radical&include_all_commits=true&count_private=true"/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelvin373-ht" alt="kelvin373-ht" /></a> </p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=algokelvin-373&theme=radical&include_all_commits=true&count_private=true"/>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algokelvin-373" alt="algokelvin-373" /></a> </p>
 </p>
 
 ### 💬 My Link Profile
@@ -30,5 +30,5 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 
 ## Constributions Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kelvin373-ht&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=algokelvin-373&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
