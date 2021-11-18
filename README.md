@@ -24,6 +24,15 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 - Instagram: [@algokelvin](https://www.instagram.com/algokelvin)
 - Stackoverflow: [Kelvin HT](https://stackoverflow.com/users/11773427/kelvin-herwanda-tandrio)
 
+<h1 align="center">Language Programming</h1>
+<p align="center">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/java_logo.jpeg" alt="Java Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/kotlin_logo.png" alt="Kotin Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/golang_logo.png" alt="Go Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/swift_logo.png" alt="Swift Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/c_logo.png" alt="C Programming" width="75" height="75">
+</p>
+
 <h1>Youtube</h1>
 <p align="center">
   <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/views/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
