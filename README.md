@@ -34,6 +34,20 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/python_logo.jpeg" alt="Python Programming" width="75" height="75">
   <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/dart_logo.png" alt="Dart Programming" width="75" height="75">
 </p>
+<table align="center">
+  <tr>
+    <td><h3>Language Programming</h3></td>
+    <td><h3>Material Source Code</h3></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">Java Programming</a></td>
+    <td>
+      - <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">Fundamental Programming</a></br>
+      - <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">SOLID Principle</a></br>
+      - <a>Data Structures ( COMMING SOON )</a>
+    </td>
+  </tr>
+</table>
 
 <h1>Youtube</h1>
 <p align="center">
