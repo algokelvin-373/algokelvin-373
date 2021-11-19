@@ -23,6 +23,7 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 - Facebook: [Algokelvin](https://web.facebook.com/algokelvin)
 - Instagram: [@algokelvin](https://www.instagram.com/algokelvin)
 - Stackoverflow: [Kelvin HT](https://stackoverflow.com/users/11773427/kelvin-herwanda-tandrio)
+- Twitter: [AlgoKelvin](https://twitter.com/algokelvin)
 
 <h1 align="center">Language Programming</h1>
 <p align="center">
