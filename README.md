@@ -17,7 +17,7 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algokelvin-373" alt="algokelvin-373" /></a> </p>
 </p>
 
-### 💬 My Link Profile
+### 💬 My Link Profile and Social Media
 - Linkedin: [Kelvin Herwanda Tandrio](https://www.linkedin.com/in/kelvin-herwanda-tandrio-0aa12117b/)
 - Youtube: [Algo Kelvin](https://www.youtube.com/c/AlgoKelvin373)
 - Facebook: [Algokelvin](https://web.facebook.com/algokelvin)
@@ -55,6 +55,10 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
       - <a>SOLID Principle ( COMMING SOON )</a></br>
       - <a>Data Structures ( COMMING SOON )</a>
     </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/HtmlProgramming">HTML Programming</a></td>
+    <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/HtmlProgramming">HTML Programming</a></td>
   </tr>
 </table>
 
