@@ -60,6 +60,26 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
     <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/HtmlProgramming">HTML Programming</a></td>
     <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/HtmlProgramming">HTML Programming</a></td>
   </tr>
+  <tr>
+    <td>Kotlin Programming</td>
+    <td>Kotlin Programming</td>
+  </tr>
+  <tr>
+    <td>Python Programming</td>
+    <td>Python Programming</td>
+  </tr>
+  <tr>
+    <td>Swift Programming</td>
+    <td>Swift Programming</td>
+  </tr>
+  <tr>
+    <td>Android Programming</td>
+    <td>Android Programming</td>
+  </tr>
+  <tr>
+    <td>iOS Programming</td>
+    <td>iOS Programming</td>
+  </tr>
 </table>
 
 <h1>Youtube</h1>
