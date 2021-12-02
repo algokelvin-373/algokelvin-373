@@ -44,14 +44,18 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   <tr>
     <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">Java Programming</a></td>
     <td>
-      - <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">Fundamental Programming</a></br>
-      - <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">SOLID Principle</a></br>
+      <ol type="1">
+        <li><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">Fundamental Programming</a></li>
+        <li><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">SOLID Principle</a></li>
+      </ol>
     </td>
   </tr>
   <tr>
     <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/DartProgramming">Dart Programming</a></td>
     <td>
-      - <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/DartProgramming">Fundamental Programming</a></br>
+      <ol type="1">
+        <li><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/DartProgramming">Fundamental Programming</a></li>
+      </ol>
     </td>
   </tr>
   <tr>
