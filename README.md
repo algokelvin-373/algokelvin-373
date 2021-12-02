@@ -61,27 +61,16 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
     <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/HtmlProgramming">HTML Programming</a></td>
     <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/HtmlProgramming">HTML Programming</a></td>
   </tr>
-  <tr>
-    <td>Kotlin Programming</td>
-    <td>Kotlin Programming</td>
-  </tr>
-  <tr>
-    <td>Python Programming</td>
-    <td>Python Programming</td>
-  </tr>
-  <tr>
-    <td>Swift Programming</td>
-    <td>Swift Programming</td>
-  </tr>
-  <tr>
-    <td>Android Programming</td>
-    <td>Android Programming</td>
-  </tr>
-  <tr>
-    <td>iOS Programming</td>
-    <td>iOS Programming</td>
-  </tr>
 </table>
+
+<h1 align="center">Platform Programming</h1>
+<p align="center">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/android_logo.png" alt="Android Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/ios_logo.png" alt="iOS Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/huawei_logo.png" alt="Huawei Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/web_logo.jpg" alt="Web Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/desktop_logo.png" alt="Desktop (GUI) Programming" width="75" height="75">
+</p>
 
 <h1>Youtube</h1>
 <p align="center">
