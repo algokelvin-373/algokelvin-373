@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=algokelvin-373.algokelvin-373) <img src="https://komarev.com/ghpvc/?username=algokelvin-373&label=Profile%20views&color=0e75b6&style=flat" alt="algokelvin-373" />
 
 ## ALGOKELVIN ##
-_AlgoKelvin is an Online Class to enhance the development of "MAKE SOFTWARE" skills._
+_AlgoKelvin is an Online Class and Channel Creator to enhance the development of "MAKE SOFTWARE" skills._
 _Follow Algokelvin and you will be taught various methods and techniques easy and precise in making software. Here it is also taught to learn team collaboration which is a provision to enter the world of Technology work 😇😇_
 #### _GO INTERNATIONAL_ ####
 
