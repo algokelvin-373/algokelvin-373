@@ -51,6 +51,17 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/golang_logo.png" alt="Go Programming" width="25" height="25">
+      <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/GoProgramming">Go Programming</a>
+    </td>
+    <td>
+      <ol type="1">
+        <li><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/GoProgramming">Fundamental Programming</a></li>
+      </ol>
+    </td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/DartProgramming">Dart Programming</a></td>
     <td>
       <ol type="1">
