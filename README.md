@@ -5,7 +5,7 @@ _AlgoKelvin is an Online Class and Channel Creator to enhance the development of
 _Follow Algokelvin and you will be taught various methods and techniques easy and precise in making software. Here it is also taught to learn team collaboration which is a provision to enter the world of Technology work 😇😇_
 #### _GO INTERNATIONAL_ ####
 
-<img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/Backgroud%20Youtube.png" alt="my_image">
+<img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/Backgroud%20Youtube%20(3).png" alt="my_image">
 
 ## My Github Statistic & My Programming Languages
 <p align="center">
