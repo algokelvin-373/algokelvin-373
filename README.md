@@ -69,10 +69,6 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
       </ol>
     </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/HtmlProgramming">HTML Programming</a></td>
-    <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/HtmlProgramming">HTML Programming</a></td>
-  </tr>
 </table>
 
 <h1 align="center">Platform Programming</h1>
