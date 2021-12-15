@@ -76,7 +76,7 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/android_logo.png" alt="Android Programming" width="75" height="75">
   <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/ios_logo.png" alt="iOS Programming" width="75" height="75">
   <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/huawei_logo.png" alt="Huawei Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/web_logo.jpg" alt="Web Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/web_logo.png" alt="Web Programming" width="75" height="75">
   <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/desktop_logo.png" alt="Desktop (GUI) Programming" width="75" height="75">
 </p>
 <table align="center">
