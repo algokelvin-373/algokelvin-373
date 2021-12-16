@@ -42,7 +42,10 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
     <td><h3>Material Source Code</h3></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">Java Programming</a></td>
+    <td>
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/java_logo.png" alt="Java Programming" width="25" height="25">
+      <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">Java Programming</a>
+    </td>
     <td>
       <ol type="1">
         <li><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavaProgramming">Fundamental Programming</a></li>
@@ -62,7 +65,10 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/DartProgramming">Dart Programming</a></td>
+    <td>
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/dart_logo.png" alt="Dart Programming" width="25" height="25">
+      <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/DartProgramming">Dart Programming</a>
+    </td>
     <td>
       <ol type="1">
         <li><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/DartProgramming">Fundamental Programming</a></li>
@@ -107,7 +113,6 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
       <ol type="1">
         <li><a href="">iOS Beginner</a>
         <li><a href="">iOS Fundamental</a>
-        <li><a href="">iOS Jetpack</a>
         <li><a href="">iOS Expert</a>
       </ol>
     </td>
