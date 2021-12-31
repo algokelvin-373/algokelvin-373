@@ -120,12 +120,23 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/flutter_logo.png" alt="iOS Programming" width="25" height="25">
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/flutter_logo.png" alt="Flutter Programming" width="25" height="25">
       <a href="https://github.com/algokelvin-373/ProjectFlutterApp">Flutter</a>
     </td>
     <td>
       <ol type="1">
         <li><a href="">Flutter Programming</a>
+      </ol>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/huawei_logo.png" alt="Huawei App Programming" width="25" height="25">
+      <a href="https://github.com/algokelvin-373/ProjectAppHuawei">Huawei App</a>
+    </td>
+    <td>
+      <ol type="1">
+        <li><a href="">Huawei App Programming</a>
       </ol>
     </td>
   </tr>
