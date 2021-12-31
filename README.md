@@ -18,6 +18,12 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 </p>
 
 ### 💬 My Link Profile and Social Media
+<p align="center">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/youtube_logo.png" alt="Youtube" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/fb_logo.png" alt="Facebook" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/ig_logo.png" alt="Instagram" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/twitter_logo.png" alt="Twitter" width="75" height="75">
+</p>
 - Youtube: [Algo Kelvin](https://www.youtube.com/c/AlgoKelvin373)
 - Facebook: [Algokelvin](https://web.facebook.com/algokelvin)
 - Instagram: [@algokelvin](https://www.instagram.com/algokelvin)
