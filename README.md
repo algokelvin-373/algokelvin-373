@@ -55,6 +55,17 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   </tr>
   <tr>
     <td>
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/kotlin_logo.png" alt="Kotlin Programming" width="25" height="25">
+      <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/KotlinProgramming">Kotlin Programming</a>
+    </td>
+    <td>
+      <ol type="1">
+        <li><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/KotlinProgramming">Fundamental Programming</a></li>
+      </ol>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/golang_logo.png" alt="Go Programming" width="25" height="25">
       <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/GoProgramming">Go Programming</a>
     </td>
@@ -72,6 +83,17 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
     <td>
       <ol type="1">
         <li><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/DartProgramming">Fundamental Programming</a></li>
+      </ol>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/javascript_logo.png" alt="Javascript Programming" width="25" height="25">
+      <a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavascriptProgramming">Javascript Programming</a>
+    </td>
+    <td>
+      <ol type="1">
+        <li><a href="https://github.com/algokelvin-373/BasicProgramming/tree/master/JavascriptProgramming">Fundamental Programming</a></li>
       </ol>
     </td>
   </tr>
