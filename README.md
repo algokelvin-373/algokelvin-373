@@ -31,6 +31,9 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   <a href="https://twitter.com/algokelvin">
     <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/twitter_logo.png" alt="Twitter" width="75" height="75">
   </a>
+  <a href="https://www.linkedin.com/company/algokelvin">
+    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/linkedln_logo.png" alt="Linkedln" width="75" height="75">
+  </a>
 </p>
 
 <h1 align="center">Language Programming</h1>
