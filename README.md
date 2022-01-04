@@ -179,10 +179,18 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 <table align="center">
   <tr>
     <th>Library Platform</th>
+    <th>Version</th>
+    <th>Repo Demo Lib Platform</th>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/algokelvin-373/ui-layout-actioner"><b>UI Layout Actioner</b></a>
+    </td>
+    <td>
+      Comming Soon
+    </td>
+    <td>
+      Comming Soon
     </td>
   </tr>
 </table> 
