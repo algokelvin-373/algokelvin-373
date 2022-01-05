@@ -193,6 +193,17 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
       Comming Soon
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/algokelvin-373/PinEntryController"><b>PIN Entry Actioner</b></a>
+    </td>
+    <td>
+      Comming Soon
+    </td>
+    <td>
+      Comming Soon
+    </td>
+  </tr>
 </table> 
 
 <h1>Youtube</h1>
