@@ -153,6 +153,17 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   </tr>
   <tr>
     <td>
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/huawei_logo.png" alt="Huawei App Programming" width="25" height="25">
+      <a href="https://github.com/algokelvin-373/ProjectAppHuawei">Huawei App</a>
+    </td>
+    <td>
+      <ol type="1">
+        <li><a href="">Huawei App Programming</a>
+      </ol>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/flutter_logo.png" alt="Flutter Programming" width="25" height="25">
       <a href="https://github.com/algokelvin-373/ProjectFlutterApp">Flutter</a>
     </td>
@@ -164,12 +175,12 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/huawei_logo.png" alt="Huawei App Programming" width="25" height="25">
-      <a href="https://github.com/algokelvin-373/ProjectAppHuawei">Huawei App</a>
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/desktop_logo.png" alt="Desktop (GUI) Programming" width="25" height="25">
+      <a href="https://github.com/algokelvin-373/GUI_Apps">GUI App</a>
     </td>
     <td>
       <ol type="1">
-        <li><a href="">Huawei App Programming</a>
+        <li><a href="https://github.com/algokelvin-373/GUI_Apps">GUI App Programming</a>
       </ol>
     </td>
   </tr>
