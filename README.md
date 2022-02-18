@@ -184,6 +184,17 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
       </ol>
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/processing3_logo.png" alt="Processing3 Programming" width="25" height="25">
+      <a href="https://github.com/algokelvin-373/GUI_Apps">Processing3 App</a>
+    </td>
+    <td>
+      <ol type="1">
+        <li><a href="https://github.com/algokelvin-373/GUI_Apps">Processing3 App Programming</a>
+      </ol>
+    </td>
+  </tr>
 </table>
 
 <h1 align="center">Library Platform AlgoKelvin</h1>
