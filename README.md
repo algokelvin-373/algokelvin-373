@@ -19,19 +19,19 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 
 ### 💬 My Link Profile and Social Media
 <p align="center">
-  <a href="https://www.youtube.com/c/AlgoKelvin373">
+  <a href="https://bit.ly/AlgoKelvinYt">
     <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/youtube_logo.png" alt="Youtube" width="75" height="75">
   </a>
-  <a href="https://web.facebook.com/algokelvin">
+  <a href="https://bit.ly/AlgoKelvinFb">
     <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/fb_logo.png" alt="Facebook" width="75" height="75">
   </a>
-  <a href="https://www.instagram.com/algokelvin">
+  <a href="https://bit.ly/AlgoKelvinIG">
     <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/ig_logo.png" alt="Instagram" width="75" height="75">
   </a>
   <a href="https://twitter.com/algokelvin">
     <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/twitter_logo.png" alt="Twitter" width="75" height="75">
   </a>
-  <a href="https://www.linkedin.com/company/algokelvin">
+  <a href="https://bit.ly/AlgoKelvinLinkedln">
     <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/linkedln_logo.png" alt="Linkedln" width="75" height="75">
   </a>
 </p>
