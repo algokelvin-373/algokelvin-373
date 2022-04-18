@@ -233,9 +233,3 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
   <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/views/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
   <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
 </p>
-
-
-## Constributions Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=algokelvin-373&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
