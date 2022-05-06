@@ -1,6 +1,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=algokelvin-373.algokelvin-373) <img src="https://komarev.com/ghpvc/?username=algokelvin-373&label=Profile%20views&color=0e75b6&style=flat" alt="algokelvin-373" />
 
-## ALGOKELVIN ##
+<p align="center">
+  <a><h1>ALGOKELVIN</h1></a><br>
+  <a href="https://github.com/algokelvin-373"><img alt="Github" src="https://img.shields.io/github/followers/algokelvin-373?label=follow&style=social"></a>
+  <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/views/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
+  <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
+</p>
+
 _AlgoKelvin is an Online Class and Channel Creator to enhance the development of "MAKE SOFTWARE" skills._
 _Follow Algokelvin and you will be taught various methods and techniques easy and precise in making software. Here it is also taught to learn team collaboration which is a provision to enter the world of Technology work 😇😇_
 #### _GO INTERNATIONAL_ ####
@@ -227,9 +233,3 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
     </td>
   </tr>
 </table> 
-
-<h1>Youtube</h1>
-<p align="center">
-  <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/views/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
-  <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
-</p>
