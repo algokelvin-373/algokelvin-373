@@ -26,32 +26,32 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 ### 💬 My Link Profile and Social Media
 <p align="center">
   <a href="https://bit.ly/AlgoKelvinYt">
-    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/youtube_logo.png" alt="Youtube" width="75" height="75">
+    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/youtube_logo.png" alt="Youtube" width="50" height="50">
   </a>
   <a href="https://bit.ly/AlgoKelvinFb">
-    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/fb_logo.png" alt="Facebook" width="75" height="75">
+    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/fb_logo.png" alt="Facebook" width="50" height="50">
   </a>
   <a href="https://bit.ly/AlgoKelvinIG">
-    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/ig_logo.png" alt="Instagram" width="75" height="75">
+    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/ig_logo.png" alt="Instagram" width="50" height="50">
   </a>
   <a href="https://twitter.com/algokelvin">
-    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/twitter_logo.png" alt="Twitter" width="75" height="75">
+    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/twitter_logo.png" alt="Twitter" width="50" height="50">
   </a>
   <a href="https://bit.ly/AlgoKelvinLinkedln">
-    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/linkedln_logo.png" alt="Linkedln" width="75" height="75">
+    <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/linkedln_logo.png" alt="Linkedln" width="50" height="50">
   </a>
 </p>
 
 <h1 align="center">Language Programming</h1>
 <p align="center">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/java_logo.png" alt="Java Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/kotlin_logo.png" alt="Kotin Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/golang_logo.png" alt="Go Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/swift_logo.png" alt="Swift Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/c_logo.png" alt="C Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/python_logo.png" alt="Python Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/dart_logo.png" alt="Dart Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/javascript_logo.png" alt="Javascript Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/java_logo.png" alt="Java Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/kotlin_logo.png" alt="Kotin Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/golang_logo.png" alt="Go Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/swift_logo.png" alt="Swift Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/c_logo.png" alt="C Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/python_logo.png" alt="Python Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/dart_logo.png" alt="Dart Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/javascript_logo.png" alt="Javascript Programming" width="50" height="50">
 </p>
 <table align="center">
   <tr>
@@ -118,12 +118,12 @@ _Follow Algokelvin and you will be taught various methods and techniques easy an
 
 <h1 align="center">Platform Programming</h1>
 <p align="center">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/android_logo.png" alt="Android Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/ios_logo.png" alt="iOS Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/huawei_logo.png" alt="Huawei Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/web_logo.png" alt="Web Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/flutter_logo.png" alt="Flutter Programming" width="75" height="75">
-  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/desktop_logo.png" alt="Desktop (GUI) Programming" width="75" height="75">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/android_logo.png" alt="Android Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/ios_logo.png" alt="iOS Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/huawei_logo.png" alt="Huawei Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/web_logo.png" alt="Web Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/flutter_logo.png" alt="Flutter Programming" width="50" height="50">
+  <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/desktop_logo.png" alt="Desktop (GUI) Programming" width="50" height="50">
 </p>
 <table align="center">
   <tr>
