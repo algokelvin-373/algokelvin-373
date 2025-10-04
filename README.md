@@ -7,23 +7,39 @@
   <a href="https://www.youtube.com/c/AlgoKelvin373/"><img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCpSHZFRx64xWwXYbWbyXxfw?style=social"></a>
 </p>
 
-_AlgoKelvin is an Online Class and Channel Creator to enhance the development of "MAKE SOFTWARE" skills._
-_Follow Algokelvin and you will be taught various methods and techniques easy and precise in making software. Here it is also taught to learn team collaboration which is a provision to enter the world of Technology work 😇😇_
-#### _GO INTERNATIONAL_ ####
+<img align="center" src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/Logo%20AlgoKelvin%20v3%20Flutter.png" alt="my_image">
 
-<img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/Backgroud%20Youtube%20(3).png" alt="my_image">
+🚀 Selamat datang di **AlgoKelvin** – Tempat Developer Pemula Tumbuh Jadi Pembuat Teknologi Masa Depan!
+
+Setiap orang yang punya impian masuk dunia teknologi berhak memahami dunia pemrograman. Konten ini dibuat supaya kita - para developer bisa belajar bersama langkah demi langkah. Tidak membutuhkan jargon berlebihan, melainkan full praktik!
+
+Channel ini hadir untuk:
+✅ Dasar-dasar pemrograman yang diajarkan dengan cara sederhana dan relatable.
+✅ Eksplorasi teknologi (terutama AI!) tidak hanya teori, namun bisa dipraktikan secara mandiri.
+✅ Membangun mindset kolaboratif: tidak hanya coding, melainkan bisa kerja tim dan inovatif nyata dari level bawah sampai hasil akhir.
+
+Kalau kamu:
+- Sering stuck pas nulis kode,
+- Mau belajar tapi takut “nggak cukup pintar”,
+- Atau cuma pengin tau gimana rasanya bikin software sendiri…
+Channel ini tepat untuk anda 💻✨
+
+**Follow** untuk support channel ini.
+
+Bukan hanya belajar buat software…
+Belajar menjadi bagian dari masa depan teknologi. 😇
 
 ## My Github Statistic & My Programming Languages
 <p align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=algokelvin-373&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=algokelvin-373&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=algokelvin-373&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=algokelvin-373&theme=radical&include_all_commits=true&count_private=true"/>
 </p>
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algokelvin-373" alt="algokelvin-373" /></a>
 </p>
 
-### 💬 My Link Profile and Social Media
+## 💬 My Link Profile and Social Media
 <p align="center">
   <a href="https://bit.ly/AlgoKelvinYt">
     <img src="https://github.com/algokelvin-373/algokelvin-373/blob/master/my_resources/youtube_logo.png" alt="Youtube" width="50" height="50">
