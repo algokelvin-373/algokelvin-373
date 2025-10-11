@@ -38,7 +38,7 @@ Belajar menjadi bagian dari masa depan teknologi. 😇
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algokelvin-373" alt="algokelvin-373" /></a>
 </p>
-
+<!-- 
 ## 💬 My Link Profile and Social Media
 <p align="center">
   <a href="https://bit.ly/AlgoKelvinYt">
@@ -254,3 +254,4 @@ Belajar menjadi bagian dari masa depan teknologi. 😇
     </td>
   </tr>
 </table> 
+ -->
